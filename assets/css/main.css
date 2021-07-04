@@ -621,6 +621,10 @@ input, select, textarea {
 				#header nav a span {
 					display: none;
 				}
+				#header nav {
+					font-size: 1.75em;
+				}
+
 
 /* Footer */
 
